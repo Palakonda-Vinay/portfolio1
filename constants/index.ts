@@ -222,7 +222,7 @@ export const Backend_skill = [
     export const Full_stack = [
         {
           skill_name: "React Native",
-          Image: "/mysql.png",
+          Image: "/next.png",
           width: 70,
           height: 70,
         },
@@ -238,7 +238,7 @@ export const Backend_skill = [
           width: 70,
           height: 70,
         },
-      
+
         {
             skill_name: "Jenkins",
             Image: "/node-js.png",
