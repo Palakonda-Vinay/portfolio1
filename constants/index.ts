@@ -54,8 +54,8 @@ export const Skill_data = [
         height: 80,
     },
     {
-        skill_name: "Flask",
-        Image: "/flask.svg",
+        skill_name: "Stripe Payment",
+        Image: "/mysql.png",
         width: 80,
         height: 80,
     },
@@ -222,7 +222,13 @@ export const Backend_skill = [
 export const Full_stack = [
     {
         skill_name: "React Native",
-        Image: "/ReactNative .png",
+        Image: "/next.png",
+        width: 70,
+        height: 70,
+    },
+    {
+        skill_name: "Docker",
+        Image: "/docker.webp",
         width: 70,
         height: 70,
     },
@@ -233,15 +239,8 @@ export const Full_stack = [
         height: 70,
     },
     {
-        skill_name: "Docker",
-        Image: "/docker.webp",
-        width: 70,
-        height: 70,
-    },
-
-    {
         skill_name: "Figma",
-        Image: "/figma.png",
+        Image: "/Figmaa.png",
         width: 50,
         height: 50,
     },
