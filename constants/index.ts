@@ -222,7 +222,7 @@ export const Backend_skill = [
     export const Full_stack = [
         {
           skill_name: "React Native",
-          Image: "/next.png",
+          Image: "/WIX.png",
           width: 70,
           height: 70,
         },
