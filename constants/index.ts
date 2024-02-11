@@ -82,9 +82,9 @@ export const Skill_data = [
 
 export const Socials = [
     {
-        name: "Instagram",
-        src: "/instagram.svg",
-        link: "https://www.instagram.com/_.vinay._.palakonda._/",
+        name: "Youtube",
+        src: "/YOU.png",
+        link: "https://www.youtube.com/@vinayPalakonda",
     },
     {
         name: "Github",
@@ -97,9 +97,9 @@ export const Socials = [
         link: "https://www.linkedin.com/in/vinay-palakonda-034565248/",
     },
     {
-        name: "Youtube",
-        src: "/YOU.png",
-        link: "https://www.youtube.com/@vinayPalakonda",
+        name: "Instagram",
+        src: "/instagram.svg",
+        link: "https://www.instagram.com/_.vinay._.palakonda._/",
     },
 ];
 
