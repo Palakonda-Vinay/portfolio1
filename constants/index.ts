@@ -98,7 +98,7 @@ export const Socials = [
     },
     {
         name: "Instagram",
-        src: "/instagram.svg",
+        src: "/INSTA.png",
         link: "https://www.instagram.com/_.vinay._.palakonda._/",
     },
 ];
